@@ -10,5 +10,5 @@ Future improvements:
 - There should be a sound, or visual sensor to the wearer knows the indication status
 - There's a bug where if you do it too quickly, it indicates to the wrong side!
 
-
+Click the image to play video
 [![Watch the video](https://img.youtube.com/vi/XrYGqzNvnz4/maxresdefault.jpg)](https://youtu.be/XrYGqzNvnz4)
